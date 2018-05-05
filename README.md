@@ -1,3 +1,6 @@
+**Note** This repository has moved to https://github.com/kogosoftwarellc/open-api/tree/master/packages/openapi-jsonschema-parameters
+
+
 # openapi-jsonschema-parameters [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url]
 > Converts openapi parameters to a jsonschema format.
 
